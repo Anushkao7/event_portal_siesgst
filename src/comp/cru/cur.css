@@ -1,0 +1,28 @@
+
+.curt{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+img{
+    height: 400px;
+    width: 100%;
+    border-radius: 7px;
+
+}
+.active {
+    background: none;
+    color: #000;
+
+}
+
+.carousel-indicators [data-bs-target]{
+    border-radius: 100%;
+    max-width: 5px;
+    max-height: 5px;
+
+}
+
